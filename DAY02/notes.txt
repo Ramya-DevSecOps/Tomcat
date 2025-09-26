@@ -41,7 +41,7 @@ copy war file into your local[Downloads]
 
 cp target/maven-web-application.war /tmp/
 
-scp -i ~/Downloads/ravinew.pem ec2-user@13.201.91.117:/tmp/maven-web-application.war  /c/Users/gpras/Downloads/maven-web-application.war
+scp -i ~/Downloads/kkfunda.pem ec2-user@43.204.35.16:/tmp/maven-web-application.war  /c/Users/DELL/Downloads/maven-web-application.war
 
 step 2: upload war into tomcat server
 ------
